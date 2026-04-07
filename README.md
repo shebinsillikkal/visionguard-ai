@@ -23,4 +23,4 @@ TensorFlow 2.x | OpenCV | Python | FastAPI | MQTT | React (dashboard)
 - Runs at 30 FPS on NVIDIA Jetson Nano
 
 ## Contact
-Built by **Shebin S Illikkal** — [Shebinsillikkl@gmail.com](mailto:Shebinsillikkl@gmail.com)
+Built by **Shebin S Illikkal** — [Shebinsillikkal@gmail.com](mailto:Shebinsillikkal@gmail.com)
